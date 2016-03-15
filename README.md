@@ -1,0 +1,2 @@
+# FlycoTabLayoutDemo
+源于H07000223大神的FlycoTabLayout,只是将Android Studio工程转换成Eclipse工程,方便广大Eclipse党程序员使用
